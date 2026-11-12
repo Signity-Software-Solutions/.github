@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/signity-logo.png" alt="Signity Solutions" width="260">
+
 # Signity Software Solutions
 
 ### AI, automation and software engineering, delivered end to end.
